@@ -1,0 +1,6 @@
+# wifi controlled led
+
+This is my first hardware project. I used the ESP32 Dev Module with the WebServer library.
+You have to enter your wifi credentials and the program returns the automatically allocated IP for the device.
+
+http://{your_device_IP}/ opens up a webpage where you can turn on and off the built in LED of the ESP32.
